@@ -9,7 +9,8 @@ The goal was to:
 - Analyze volatility in housing markets
 
 ## 📊 Interactive Dashboard (Tableau Public)
-👉 [Click here to view the Tableau Dashboard]((https://public.tableau.com/authoring/EuropeanHousingMarketTrends20222025/Dashboard1#1))
+👉 [Click here to view the Tableau Dashboard][([https://public.tableau.com/views/EuropeanHousing/Dashboard1](https://public.tableau.com/authoring/EuropeanHousingMarketTrends20222025/Dashboard1#1))
+
 
 ## 📁 Dataset
 The dataset includes:
