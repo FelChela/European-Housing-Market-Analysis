@@ -8,6 +8,12 @@ The goal was to:
 - Compare countries’ housing growth
 - Analyze volatility in housing markets
 
+ 📊 Dashboard Features
+- Time-series analysis of housing price index
+- Country comparison using interactive slicers
+- Growth performance by country
+- Key KPI summary cards (average price, highest growth, price levels)
+
 ## 📊 Interactive Dashboard (Tableau Public)
 👉 [Click here to view the Tableau Dashboard][([https://public.tableau.com/views/EuropeanHousing/Dashboard1](https://public.tableau.com/authoring/EuropeanHousingMarketTrends20222025/Dashboard1#1))
 
@@ -22,12 +28,12 @@ The dataset includes:
 - Price Change Since 2015
 
 ## 🔍 Key Insights
-- Eastern European countries showed higher volatility
-- Some Western markets experienced price slowdowns in 2023
-- Overall upward trend across most regions post-2024
+- Several Eastern European countries show higher growth and volatility
+- Some Western European markets slowed during 2023 before recovering
+- Overall long-term upward trend across most regions
 
 ## 🛠 Tools Used
 - Excel (data cleaning)
 - Tableau Public (visualization)
-- PowerBI (visualization)
+- PowerBI (data modelling & visualization)
   
